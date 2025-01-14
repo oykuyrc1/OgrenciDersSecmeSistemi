@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\bin\Debug\net9.0\OgrenciDersYonetimSistemi.exe
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\bin\Debug\net9.0\OgrenciDersYonetimSistemi.deps.json
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\bin\Debug\net9.0\OgrenciDersYonetimSistemi.runtimeconfig.json
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\bin\Debug\net9.0\OgrenciDersYonetimSistemi.dll
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\bin\Debug\net9.0\OgrenciDersYonetimSistemi.pdb
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.dll
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\refint\OgrenciDersYonetimSistemi.dll
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.pdb
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\OgrenciDersYonetimSistemi.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\OgrenciDersYonetimSistemi\obj\Debug\net9.0\ref\OgrenciDersYonetimSistemi.dll

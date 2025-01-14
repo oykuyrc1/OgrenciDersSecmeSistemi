@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOgrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ogrenci>
+    <Id>1</Id>
+    <Name>oyku</Name>
+  </Ogrenci>
+  <Ogrenci>
+    <Id>2</Id>
+    <Name>qq</Name>
+  </Ogrenci>
+</ArrayOfOgrenci>
